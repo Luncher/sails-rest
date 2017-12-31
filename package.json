@@ -1,5 +1,5 @@
 {
-  "name": "sails-rest",
+  "name": "sails-rest-adapter",
   "version": "0.1.1",
   "description": "rest adapter for Sails / Waterline",
   "main": "index.js",
@@ -24,6 +24,8 @@
   "dependencies": {
     "async": "^1.4.2",
     "lodash": "^3.9.3",
+    "pluralize": "^7.0.0",
+    "promise-callbacks": "^3.1.0",
     "restify": "^3.0.3",
     "superagent": "^1.2.0"
   },
