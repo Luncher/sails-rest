@@ -1,6 +1,6 @@
 {
   "name": "sails-rest-adapter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "rest adapter for Sails / Waterline",
   "main": "index.js",
   "scripts": {
